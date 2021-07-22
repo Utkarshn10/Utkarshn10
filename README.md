@@ -9,10 +9,10 @@
 
 ### Projects 🙌
 
-## Websites I have worked on
+Websites I have worked on
 
-# Soothe: https://siddheshshinde-tech.github.io/Soothe/#/
+Soothe: https://siddheshshinde-tech.github.io/Soothe/#/
 
-# Soothe 2.0: https://soothe-8075f.web.app/#/
+Soothe 2.0: https://soothe-8075f.web.app/#/
 
-# hulu clone: https://hulu-clone-liard-xi.vercel.app/
+hulu clone: https://hulu-clone-liard-xi.vercel.app/
