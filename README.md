@@ -5,8 +5,6 @@
 🎓 I’m an Open-Source enthusiast, ![Competitive Programmer](https://codeforces.com/profile/Avatar) & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I am passionate about DSA, Web Dev and I enjoy learning new things. </br>
 
-![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarshn10&show_icons=true&hide_border=true)
-
 ### Projects 🙌
 
 #### Websites I have worked on
@@ -20,3 +18,5 @@
 #### App
 
 - [Baby Monitoring App](https://github.com/Utkarshn10/Baby_monitoring)
+
+![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarshn10&show_icons=true&hide_border=true)
