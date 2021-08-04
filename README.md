@@ -27,5 +27,5 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshn10&theme=dark" width="48%" >
 </br>
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshn10&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshn10&show_icons=true&theme=radical">
 </div>
