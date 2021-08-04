@@ -19,4 +19,11 @@
 
 - [Baby Monitoring App](https://github.com/Utkarshn10/Baby_monitoring)
 
+<p align="center">
 ![Utkarsh's github stats](https://github-readme-stats.vercel.app/api?username=Utkarshn10&show_icons=true&hide_border=true)
+</p>
+<p align="center">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshn10&layout=compact&theme=vue-light" />
+</p>
+</br>
