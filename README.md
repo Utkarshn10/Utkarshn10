@@ -31,6 +31,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Utkarshn10.Utkarshn10)
 
 </div>
-<!-- ![Utkarsh's Github Stats](https://github-readme-stats.vercel.app/api?username=Utkarshn10&count_private=true&show_icons=true&theme=radical) -->
-</p>
 </br>
