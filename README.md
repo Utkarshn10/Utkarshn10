@@ -18,13 +18,19 @@
 #### App
 
 - [Baby Monitoring App](https://github.com/Utkarshn10/Baby_monitoring)
-</br>
-</br>
-<p align="center">
-<img src = https://github-readme-stats.vercel.app/api?username=Utkarshn10&theme=vue-dark&show_icons=true&hide_border=true>
-</p>
-<p align="center">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshn10&layout=compact&theme=vue-dark" />
+  </br>
+  </br>
+
+### Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=Utkarshn10&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshn10&theme=dark" width="48%" >
+<br>
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Utkarshn10.Utkarshn10)
+
+</div>
+<!-- ![Utkarsh's Github Stats](https://github-readme-stats.vercel.app/api?username=Utkarshn10&count_private=true&show_icons=true&theme=radical) -->
 </p>
 </br>
