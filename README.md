@@ -21,11 +21,13 @@
   </br>
   </br>
 
-### Stats
+### 🐱My Github stats:
+![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utkarshn10&theme=react-dark&hide_border=true&area=true)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Utkarshn10&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshn10&theme=dark" width="48%" >
-</br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshn10&show_icons=true&theme=radical">
-</div>
+<a href="https://github.com/Utkarshn10">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Utkarshn10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Utkarsh's github stats"/>
+</a>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarshn10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshn10&layout=compact&text_color=daf7dc&bg_color=000000)](https://github.com/Utkarshn10/github-readme-stats)
