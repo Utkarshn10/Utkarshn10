@@ -5,7 +5,7 @@
 🎓 I’m an Open-Source and Competitive Programming enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I am passionate about DSA, Web Dev and I enjoy learning new things. </br>
 
-### Projects 🙌
+<!-- ### Projects 🙌
 
 #### Websites I have worked on
 
@@ -20,8 +20,8 @@
 - [Baby Monitoring App](https://github.com/Utkarshn10/Baby_monitoring)
   </br>
   </br>
-
-### 🐱My Github stats:
+ -->
+### My Github stats 🐱:
 ![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utkarshn10&theme=react-dark&hide_border=true&area=true)
 
 <div align="center">
