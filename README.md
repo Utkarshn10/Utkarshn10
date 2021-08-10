@@ -1,5 +1,7 @@
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Utkarsh
 
+![](https://github.com/Utkarshn10/Utkarshn10/blob/main/header.png)
+
 ### About Me ⚡
 
 🎓 I’m an Open-Source and Competitive Programming enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
