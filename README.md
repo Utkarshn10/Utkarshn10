@@ -6,7 +6,7 @@
 🎓 I’m an Open-Source and Competitive Programming enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I am passionate about DSA, Web Dev and I enjoy learning new things. </br>
 
-## 🛠 &nbsp;Tech Stack
+## Tech Stack;🛠 &nbsp;
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
