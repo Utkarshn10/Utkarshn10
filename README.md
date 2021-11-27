@@ -3,7 +3,7 @@
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/utkarsh1010101">
-  <img color-"white" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img color="white" align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:utkarshnagarwork@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
