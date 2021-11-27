@@ -8,8 +8,7 @@
 <a href="mailto:utkarshnagarwork@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
-
+</br>
 
 ### About Me ⚡
 
