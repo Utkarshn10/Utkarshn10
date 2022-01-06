@@ -32,9 +32,10 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 <a href="mailto:utkarshnagarwork@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Utkarshn10&color=79FFE1)      
+<br>
 <a href="https://twitter.com/intent/follow?screen_name=Utkarshn10" />
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
 
