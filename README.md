@@ -30,6 +30,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Utkarshn10&color=79FFE1)      
 <br>
