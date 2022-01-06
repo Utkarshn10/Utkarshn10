@@ -4,21 +4,9 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 - ✈️ Hire me for remote work & internships :)
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
 - 📫 I regularly share about Software Engineering, Open Source, Productivity and Fitness on [Twitter](https://twitter.com/utkarsh1010101).
-<a href="https://www.linkedin.com/in/utkarsh-nagar-b15562118/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/utkarsh1010101">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:utkarshnagarwork@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</br>
 
-### About Me ⚡
 
-🎓 I’m an Open-Source and Competitive Programming enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I am passionate about DSA, Web Dev and I enjoy learning new things. </br>
+
 
  ## Tech Stack 🛠 &nbsp;
 
@@ -32,14 +20,21 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-<!-- - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) -->
-<!-- - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![IntellijIdea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+
+
+#### Take a look at my handles and let's get in touch!
+<a href="https://www.linkedin.com/in/utkarsh-nagar-b15562118/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/utkarsh1010101">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:utkarshnagarwork@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</br>
+
+
 
 ### My Github stats 🐱:
 
