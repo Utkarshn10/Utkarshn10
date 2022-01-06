@@ -3,7 +3,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 <br>
 - ✈️ Hire me for remote work & internships :)
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
-- 
+- 📫 I regularly share about 
 <a href="https://www.linkedin.com/in/utkarsh-nagar-b15562118/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -20,7 +20,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 🎓 I’m an Open-Source and Competitive Programming enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I am passionate about DSA, Web Dev and I enjoy learning new things. </br>
 
-<!-- ## Tech Stack 🛠 &nbsp;
+ ## Tech Stack 🛠 &nbsp;
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -39,7 +39,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![IntellijIdea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) --> 
+  ![IntellijIdea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 
 ### My Github stats 🐱:
 
