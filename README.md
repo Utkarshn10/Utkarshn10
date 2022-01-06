@@ -33,7 +33,6 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Utkarshn10&color=79FFE1)      
-<br>
 <a href="https://twitter.com/intent/follow?screen_name=Utkarshn10" />[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
 
 
