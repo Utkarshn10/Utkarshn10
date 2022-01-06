@@ -5,9 +5,6 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
 - 📫 I regularly talk about Software Engineering, Open Source, Productivity and Fitness on [Twitter](https://twitter.com/utkarsh1010101).
 
-
-
-
  ## Tech Stack 🛠 &nbsp;
 
 - 💻 &nbsp;
@@ -36,8 +33,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 
 ![](https://komarev.com/ghpvc/?username=Utkarshn10&color=79FFE1)      
 <br>
-<a href="https://twitter.com/intent/follow?screen_name=Utkarshn10" />
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
+<a href="https://twitter.com/intent/follow?screen_name=Utkarshn10" />[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
 
 
 ### My Github stats 🐱:
