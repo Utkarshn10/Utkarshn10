@@ -33,6 +33,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
+![]
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagar2000@gmail.com)
 
 
