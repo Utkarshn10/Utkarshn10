@@ -3,7 +3,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 <br>
 - ✈️ Hire me for remote work & internships :)
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
-- 📫 I regularly share about 
+- 📫 I regularly share about Software Engineering, Open Source, Productivity and Fitness on [Twitter](https://twitter.com/utkarsh1010101).
 <a href="https://www.linkedin.com/in/utkarsh-nagar-b15562118/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
