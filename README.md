@@ -18,7 +18,6 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 <br>
-
 ### Take a look at my handles and let's get in touch!
 <a href="https://www.linkedin.com/in/utkarsh-nagar-b15562118/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
