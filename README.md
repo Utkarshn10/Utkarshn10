@@ -3,7 +3,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 <br>
 - ✈️ Hire me for remote work & internships :)
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
-- 📫 I regularly share about Software Engineering, Open Source, Productivity and Fitness on [Twitter](https://twitter.com/utkarsh1010101).
+- 📫 I regularly talk about Software Engineering, Open Source, Productivity and Fitness on [Twitter](https://twitter.com/utkarsh1010101).
 
 
 
@@ -33,8 +33,8 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
-<a href="https://twitter.com/intent/follow?screen_name=Utkarshn10">
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagar2000@gmail.com)
+<a href="https://twitter.com/intent/follow?screen_name=Utkarshn10"></a>
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
 
 
 ### My Github stats 🐱:
