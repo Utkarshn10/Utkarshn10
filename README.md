@@ -4,7 +4,7 @@ I work as a Front-end Developer 👨‍💻 and an Open Source Contributor.
 - ✈️ Hire me for remote work & internships :)
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
 - 📫 I regularly talk about Software Engineering, Open Source, Productivity and Fitness on [Twitter](https://twitter.com/utkarsh1010101).
-
+- Pronouns: He/Him
  ## Tech Stack 🛠 &nbsp;
 
 - 💻 &nbsp;
