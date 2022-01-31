@@ -51,8 +51,6 @@ I am a Front-end Developer 👨‍💻 and an Open Source Contributor.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarshn10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshn10&layout=compact&text_color=daf7dc&bg_color=000000)](https://github.com/Utkarshn10/github-readme-stats)
 </div>
 
 
