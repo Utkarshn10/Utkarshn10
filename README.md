@@ -4,7 +4,7 @@ I am a Front-end Developer 👨‍💻 and an Open Source Contributor.
 - ✈️ Hire me for remote work & internships :)
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
 - Searching for food ? Here's [RecipeBae](https://recipebae.vercel.app/) for you.
-- 📫 I regularly share insight about Software Engineering, Web Development, Open Source on [Twitter](https://twitter.com/utkarsh1010101).
+- 📫 I share insights about Software Engineering, Web Development, Open Source and Fitness on [Twitter](https://twitter.com/utkarsh1010101).
 - Let's connect [here](https://bio.link/utkarshn).
 - Pronouns: He/Him
  ## Tech Stack 🛠 &nbsp;
