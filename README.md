@@ -1,6 +1,8 @@
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Utkarsh](https://site-gamma-ten.vercel.app/)
 I am a Front-end Developer 👨‍💻 and an Open Source Contributor.
 <br>
+<img align="right" width="37%" src="./main_masthead.webp">
+
 - ✈️ Hire me for remote work & internships :)
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
 - Searching for food ? Here's [RecipeBae](https://recipebae.vercel.app/) for you.
