@@ -40,7 +40,7 @@ I am a Front-end Developer 👨‍💻 and an Open Source Contributor.
 
 ### My Github stats:
 
-![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utkarshn10&theme=react-dark&hide_border=true&area=true)
+<!-- ![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utkarshn10&theme=react-dark&hide_border=true&area=true) -->
 
 
 <div align="center">
