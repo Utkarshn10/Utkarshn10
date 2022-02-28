@@ -1,6 +1,6 @@
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Utkarsh](https://site-gamma-ten.vercel.app/)
 I am a Front-end Developer 👨‍💻 and an Open Source Contributor.
-<img align="right" width="40%" src="./main_masthead.webp">
+<a href='https://www.freepik.com/photos/vr-game'>Vr game photo created by julos - www.freepik.com</a>
 
 - ✈️ Hire me for remote work & internships :)
 - 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
