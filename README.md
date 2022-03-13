@@ -2,7 +2,7 @@
 I am a Front-end Developer and an Open Source Contributor.
 <img align="right" width="37%" src="main_masthead.webp">
 
-- 👨‍💻 You can find my work [here](https://site-gamma-ten.vercel.app/)
+- 👨‍💻 Find my work [here](https://site-gamma-ten.vercel.app/)
 - Searching for food ? Here's [RecipeBae](https://recipebae.vercel.app/) for you.
 - I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
 - 📫 I share insights about Software Engineering, Web Development and Open Source on [Twitter](https://twitter.com/utkarsh1010101).
