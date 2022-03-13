@@ -6,7 +6,7 @@ I am a Front-end Developer and an Open Source Contributor.
 - Searching for food ? Here's [RecipeBae](https://recipebae.vercel.app/) for you.
 - I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
 - 📫 I share insights about Software Engineering, Web Development and Open Source on [Twitter](https://twitter.com/utkarsh1010101).
-- ✈️ Hire me for remote work & internships :)
+- ✈️ Hire [me](mailto:utkarshnagarwork@gmail.com) for remote work & internships :)
 - Let's connect [here](https://bio.link/utkarshn).
 - Pronouns: He/Him
  ## Tech Stack 🛠 &nbsp;
