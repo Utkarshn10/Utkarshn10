@@ -30,8 +30,11 @@ I am a Frontend Developer and an Open Source Contributor.
 <a href="https://twitter.com/utkarsh1010101">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:utkarshnagarwork@gmail.com">
+<a href="mailto:utkarshnagar2000@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://utkarshnagar.hashnode.dev/">
+  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
 <br>
 <br>
