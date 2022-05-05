@@ -1,5 +1,8 @@
 ### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Utkarsh](https://site-gamma-ten.vercel.app/)
-I am a Frontend Developer and an Open Source Contributor.
+==============================
+
+Web Developer, Open Source Contributor & Technical Writer
+---------------------------------------------------------
 <img align="right" width="37%" src="main_masthead.webp">
 
 - 👨‍💻 Find my work [here](https://site-gamma-ten.vercel.app/)
