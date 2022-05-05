@@ -1,5 +1,4 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Utkarsh](https://site-gamma-ten.vercel.app/)</h1>
----------------------------------------------------------
 
 <h3 align="center">Web Developer, Open Source Contributor & Technical Writer</h3>
 
