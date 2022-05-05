@@ -13,6 +13,9 @@ Web Developer, Open Source Contributor & Technical Writer
 - ✈️ Hire [me](mailto:utkarshnagarwork@gmail.com) for remote work & internships :)
 - Let's connect [here](https://bio.link/utkarshn).
 - Pronouns: He/Him
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [here](http://site-gamma-ten.vercel.app/)
+* 🚀  I'm currently working on [Focusly](http://focusly.vercel.app/)
 
 ### Skills
 
