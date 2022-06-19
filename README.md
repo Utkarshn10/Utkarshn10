@@ -1,18 +1,21 @@
-<h1 align="center">Hey, I'm Utkarsh</h1>
 
-<h3 align="center">Developer, Technical Writer and Open Source Contributor</h3>
+![1080x360](https://user-images.githubusercontent.com/58587256/174471233-4a9c1c37-ca6e-4f56-8c83-3d737196638b.jpg)
+
+
+<!-- <h3 align="center">Developer, Technical Writer and Open Source Contributor</h3> -->
 <br />
 
-<img align="right" width="37%" src="main_masthead.webp">
+<!-- <img align="right" width="37%" src="main_masthead.webp"> -->
 
 - 👨‍💻 Find all my work [here](https://peerlist.io/utkarshn)
-- Recently I was invited as a Speaker at GDG Berlin 2022 March Remote [Meetup](https://gdg.community.dev/events/details/google-gdg-berlin-presents-remote-gdg-berlin-2022-march-meetup/) where I talked about Open Source and how people can start with it.
+- I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
 - Searching for food ? Here's [RecipeBae](https://recipebae.vercel.app/) for you.
 - To increase your focus and productivity visit [focusly](https://focusly.vercel.app/).
 - Start your journey in Open Source by making your [First Contribution](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution)
-- I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
-- ✈️ Hire [me](https://www.linkedin.com/in/utkarsh-nagar-b15562118/) for remote work & internships :)
-
+- Recently I was invited as a Speaker at GDG Berlin 2022 March Remote [Meetup](https://gdg.community.dev/events/details/google-gdg-berlin-presents-remote-gdg-berlin-2022-march-meetup/)
+<br></br>
+### ✈️ Hire [me](https://www.linkedin.com/in/utkarsh-nagar-b15562118/) for remote work & internships :)
+<br></br>
 
 ### Skills
 
