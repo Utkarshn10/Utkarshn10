@@ -16,7 +16,6 @@
 <br></br>
 ### ✈️ Hire [me](https://www.linkedin.com/in/utkarsh-nagar-b15562118/) for remote work & internships :)
 <br></br>
-
 ### Skills
 
 <p align="left">
