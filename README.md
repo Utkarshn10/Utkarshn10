@@ -7,7 +7,7 @@
 
 <!-- <img align="right" width="37%" src="main_masthead.webp"> -->
 
-- 👨‍💻 Find all my work [here](https://peerlist.io/utkarshn)
+- 👨‍💻 Find all my work [here](https://utkarsh-nagar.vercel.app/)
 - I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
 - Searching for food ? Here's [RecipeBae](https://recipebae.vercel.app/) for you.
 - To increase your focus and productivity visit [focusly](https://focusly.vercel.app/).
