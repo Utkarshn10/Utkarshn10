@@ -14,7 +14,7 @@
 - To increase your focus and productivity visit [focusly](https://focusly.vercel.app/).
 - Start your journey in Open Source by making your [First Contribution](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution)
 
-✉️  You can contact me [here](mailto:utkarshnagarwork@gmail.com).
+✉️  You can contact me [here](mailto:utkarshnagarwork@gmail.com)
 
 <!-- - Recently I was invited as a Speaker at GDG Berlin 2022 March Remote [Meetup](https://gdg.community.dev/events/details/google-gdg-berlin-presents-remote-gdg-berlin-2022-march-meetup/) -->
 <!-- <br></br> -->
