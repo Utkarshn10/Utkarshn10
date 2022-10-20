@@ -6,8 +6,6 @@
 <br />
 
 <!-- <img align="right" width="37%" src="main_masthead.webp"> -->
-
-- 👨‍💻 Actively looking for Software Engineer/Software Engineer Intern roles. 
 - Find all my work [here](https://utkarsh-nagar.vercel.app/)
 - I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
 - Searching for food ? Here's [RecipeBae](https://recipebae.vercel.app/) for you.
