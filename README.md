@@ -9,7 +9,7 @@
 - Find all my work [here](https://utkarsh-nagar.vercel.app/)
 - I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
 - Searching for food ? Here's [RecipeBae](https://recipebae.vercel.app/) for you.
-- To increase your focus and productivity visit [focusly](https://focusly.vercel.app/).
+- To increase your focus and productivity visit [Focusly](https://focusly.vercel.app/).
 - Start your journey in Open Source by making your [First Contribution](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution)
 
 - ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com)
