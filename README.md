@@ -18,8 +18,8 @@
 <!-- <br></br> -->
 <!-- ### ✈️ Hire [me](https://www.linkedin.com/in/utkarsh-nagar-b15562118/) for remote work & internships :) -->
 <!-- <br></br> -->
-### :books: Recent Blog Posts
 
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
