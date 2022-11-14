@@ -1,7 +1,3 @@
-
-![1080x360](https://user-images.githubusercontent.com/58587256/174471233-4a9c1c37-ca6e-4f56-8c83-3d737196638b.jpg)
-
-
 <!-- <h3 align="center">Developer, Technical Writer and Open Source Contributor</h3> -->
 <br />
 
@@ -9,14 +5,9 @@
 - Find all my work [here](https://utkarsh-nagar.vercel.app/)
 - I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
 - Recent Projects: 
-  - [RecipeBae](https://recipebae.vercel.app/) for you.
+  - [RecipeBae](https://recipebae.vercel.app/).
   - [Focusly](https://focusly.vercel.app/).
 - ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com)
-
-<!-- - Recently I was invited as a Speaker at GDG Berlin 2022 March Remote [Meetup](https://gdg.community.dev/events/details/google-gdg-berlin-presents-remote-gdg-berlin-2022-march-meetup/) -->
-<!-- <br></br> -->
-<!-- ### ✈️ Hire [me](https://www.linkedin.com/in/utkarsh-nagar-b15562118/) for remote work & internships :) -->
-<!-- <br></br> -->
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
