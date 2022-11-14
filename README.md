@@ -1,9 +1,4 @@
-<!-- <h3 align="center">Developer, Technical Writer and Open Source Contributor</h3> -->
-<br />
-
-<!-- <img align="right" width="37%" src="main_masthead.webp"> -->
-
-- Recent Projects: 
+## Recent Projects: 
   - [RecipeBae](https://recipebae.vercel.app/).
   - [Focusly](https://focusly.vercel.app/).
 - Sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
