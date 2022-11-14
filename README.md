@@ -1,19 +1,18 @@
 ## Recent Projects: 
   - [RecipeBae](https://recipebae.vercel.app/).
   - [Focusly](https://focusly.vercel.app/).
-- Sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
-- ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com)
 
-#### :books: Recent Blog Posts
+
+## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🔥 [Focusly : an app to help you stay Focused](https://utkarshnagar.hashnode.dev/focusly-an-app-to-help-you-stay-focused)
  - 💯 [Get 8 hours of work done in 4](https://utkarshnagar.hashnode.dev/get-8-hours-of-work-done-in-4)
  - 🌮 [Make your GitHub Profile Stand out!](https://utkarshnagar.hashnode.dev/make-your-github-profile-stand-out)
  - 🔥 [Make your first Open Source Contribution](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution)<!-- BLOGPOSTS:END -->
 
+## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com)
 
-
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -35,7 +34,7 @@
 <!-- <a href="https://twitter.com/intent/follow?screen_name=Utkarshn10" />[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
  -->
 
-### Github stats:
+## Github stats:
 
 ![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utkarshn10&theme=react-dark&hide_border=true&area=true)
 
