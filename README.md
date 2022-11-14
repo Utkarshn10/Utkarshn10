@@ -2,11 +2,11 @@
 <br />
 
 <!-- <img align="right" width="37%" src="main_masthead.webp"> -->
-- Find all my work [here](https://utkarsh-nagar.vercel.app/)
-- I am sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
+
 - Recent Projects: 
   - [RecipeBae](https://recipebae.vercel.app/).
   - [Focusly](https://focusly.vercel.app/).
+- Sharing my learnings on my [blog](https://utkarshnagar.hashnode.dev/)
 - ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com)
 
 #### :books: Recent Blog Posts
