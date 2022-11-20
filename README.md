@@ -10,7 +10,7 @@
  - 🌮 [Make your GitHub Profile Stand out!](https://utkarshnagar.hashnode.dev/make-your-github-profile-stand-out)
  - 🔥 [Make your first Open Source Contribution](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution)<!-- BLOGPOSTS:END -->
 
-## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com)
+<!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
 ## Skills
 
