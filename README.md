@@ -34,9 +34,9 @@
 <!-- <a href="https://twitter.com/intent/follow?screen_name=Utkarshn10" />[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
  -->
 
-## Github stats:
+<!-- ## Github stats:
 
-![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utkarshn10&theme=react-dark&hide_border=true&area=true)
+![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utkarshn10&theme=react-dark&hide_border=true&area=true) -->
 
 
 <div align="center">
@@ -45,7 +45,7 @@
 </a> -->
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarshn10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarshn10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD) -->
  
 </div>
 
