@@ -1,6 +1,6 @@
 ## Recent Projects: 
-  - [RecipeBae](https://recipebae.vercel.app/).
-  - [Focusly](https://focusly.vercel.app/).
+  - [RecipeBae](https://recipebae.vercel.app/)
+  - [Focusly](https://focusly.vercel.app/)
 
 
 ## :books: Recent Blog Posts
