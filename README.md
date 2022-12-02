@@ -5,10 +5,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Focusly : an app to help you stay Focused](https://utkarshnagar.hashnode.dev/focusly-an-app-to-help-you-stay-focused)
- - 💯 [Get 8 hours of work done in 4](https://utkarshnagar.hashnode.dev/get-8-hours-of-work-done-in-4)
- - 🌮 [Make your GitHub Profile Stand out!](https://utkarshnagar.hashnode.dev/make-your-github-profile-stand-out)
- - 🔥 [Make your first Open Source Contribution](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution)<!-- BLOGPOSTS:END -->
+ - 🔥 [How Open Source Changed My Life](https://utkarshnagar.hashnode.dev/how-open-source-changed-my-life)
+ - 💯 [Focusly : an app to help you stay Focused](https://utkarshnagar.hashnode.dev/focusly-an-app-to-help-you-stay-focused)
+ - 🌮 [Get 8 hours of work done in 4](https://utkarshnagar.hashnode.dev/get-8-hours-of-work-done-in-4)
+ - 🔥 [Make your GitHub Profile Stand out!](https://utkarshnagar.hashnode.dev/make-your-github-profile-stand-out)
+ - 🌮 [Make your first Open Source Contribution](https://utkarshnagar.hashnode.dev/make-your-first-open-source-contribution)<!-- BLOGPOSTS:END -->
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
