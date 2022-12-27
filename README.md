@@ -5,7 +5,7 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Dev Retro 2022: A developer&#39;s diary on stepping outside his comfort zone](https://utkarshnagar.hashnode.dev/dev-retro-2022-a-developers-diary-on-stepping-outside-his-comfort-zone)
+ - 🔥 [A developer&#39;s diary on stepping outside his comfort zone - Dev Retro 2022](https://utkarshnagar.hashnode.dev/a-developers-diary-on-stepping-outside-his-comfort-zone-dev-retro-2022)
  - 💯 [How Open Source Changed My Life](https://utkarshnagar.hashnode.dev/how-open-source-changed-my-life)
  - 🌮 [Focusly : an app to help you stay Focused](https://utkarshnagar.hashnode.dev/focusly-an-app-to-help-you-stay-focused)
  - 🔥 [Get 8 hours of work done in 4](https://utkarshnagar.hashnode.dev/get-8-hours-of-work-done-in-4)
