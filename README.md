@@ -5,11 +5,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [A developer&#39;s diary on stepping outside his comfort zone - Dev Retro 2022](https://utkarshnagar.hashnode.dev/a-developers-diary-on-stepping-outside-his-comfort-zone-dev-retro-2022)
- - 💯 [How Open Source Changed My Life](https://utkarshnagar.hashnode.dev/how-open-source-changed-my-life)
- - 🌮 [Focusly : an app to help you stay Focused](https://utkarshnagar.hashnode.dev/focusly-an-app-to-help-you-stay-focused)
- - 🔥 [Get 8 hours of work done in 4](https://utkarshnagar.hashnode.dev/get-8-hours-of-work-done-in-4)
- - 🌮 [Make your GitHub Profile Stand out!](https://utkarshnagar.hashnode.dev/make-your-github-profile-stand-out)<!-- BLOGPOSTS:END -->
+ - 🔥 [How I Stay Productive as a Developer: Tips for Everyone](https://utkarshnagar.hashnode.dev/how-i-stay-productive-as-a-developer-tips-for-everyone)
+ - 💯 [A developer&#39;s diary on stepping outside his comfort zone - Dev Retro 2022](https://utkarshnagar.hashnode.dev/a-developers-diary-on-stepping-outside-his-comfort-zone-dev-retro-2022)
+ - 🌮 [How Open Source Changed My Life](https://utkarshnagar.hashnode.dev/how-open-source-changed-my-life)
+ - 🔥 [Focusly : an app to help you stay Focused](https://utkarshnagar.hashnode.dev/focusly-an-app-to-help-you-stay-focused)
+ - 🌮 [Get 8 hours of work done in 4](https://utkarshnagar.hashnode.dev/get-8-hours-of-work-done-in-4)<!-- BLOGPOSTS:END -->
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
