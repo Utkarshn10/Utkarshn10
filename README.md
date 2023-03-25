@@ -6,11 +6,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [&quot;Unlocking the Power of React Hooks: How to Use Them Effectively&quot;](https://utkarshnagar.hashnode.dev/unlocking-the-power-of-react-hooks-how-to-use-them-effectively)
- - 💯 [How to stay productive as a Developer](https://utkarshnagar.hashnode.dev/how-to-stay-productive-as-a-developer)
- - 🌮 [A developer&#39;s diary on stepping outside his comfort zone - Dev Retro 2022](https://utkarshnagar.hashnode.dev/a-developers-diary-on-stepping-outside-his-comfort-zone-dev-retro-2022)
- - 🔥 [How Open Source Changed My Life](https://utkarshnagar.hashnode.dev/how-open-source-changed-my-life)
- - 🌮 [Focusly : an app to help you stay Focused](https://utkarshnagar.hashnode.dev/focusly-an-app-to-help-you-stay-focused)<!-- BLOGPOSTS:END -->
+ - 🔥 [Unlocking the Power of React Hooks: The useState](https://utkarshnagar.hashnode.dev/unlocking-the-power-of-react-hooks-the-usestate)
+ - 💯 [&quot;Unlocking the Power of React Hooks: How to Use Them Effectively&quot;](https://utkarshnagar.hashnode.dev/unlocking-the-power-of-react-hooks-how-to-use-them-effectively)
+ - 🌮 [How to stay productive as a Developer](https://utkarshnagar.hashnode.dev/how-to-stay-productive-as-a-developer)
+ - 🔥 [A developer&#39;s diary on stepping outside his comfort zone - Dev Retro 2022](https://utkarshnagar.hashnode.dev/a-developers-diary-on-stepping-outside-his-comfort-zone-dev-retro-2022)
+ - 🌮 [How Open Source Changed My Life](https://utkarshnagar.hashnode.dev/how-open-source-changed-my-life)<!-- BLOGPOSTS:END -->
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
