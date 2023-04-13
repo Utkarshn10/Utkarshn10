@@ -1,7 +1,9 @@
-## Recent Projects: 
+## Currently Working on: 
   - [Focusly](https://focusly.vercel.app/)
+
+## Other Projects
   - [RecipeBae](https://recipebae.vercel.app/)
- 
+  
 
 
 ## :books: Recent Blog Posts
