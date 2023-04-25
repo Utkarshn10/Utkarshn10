@@ -8,11 +8,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Burnout in Tech: Tips for fast recovery](https://utkarshnagar.hashnode.dev/burnout-in-tech-tips-for-fast-recovery)
- - 💯 [Unlocking the Power of React Hooks: The useState](https://utkarshnagar.hashnode.dev/unlocking-the-power-of-react-hooks-the-usestate)
- - 🌮 [&quot;Unlocking the Power of React Hooks: How to Use Them Effectively&quot;](https://utkarshnagar.hashnode.dev/unlocking-the-power-of-react-hooks-how-to-use-them-effectively)
- - 🔥 [How to stay productive as a Developer](https://utkarshnagar.hashnode.dev/how-to-stay-productive-as-a-developer)
- - 🌮 [A developer&#39;s diary on stepping outside his comfort zone - Dev Retro 2022](https://utkarshnagar.hashnode.dev/a-developers-diary-on-stepping-outside-his-comfort-zone-dev-retro-2022)<!-- BLOGPOSTS:END -->
+ - 🔥 [Tech News at Your Fingertips: Top 3 Apps for the Latest Updates&quot;](https://utkarshnagar.hashnode.dev/tech-news-at-your-fingertips-top-3-apps-for-the-latest-updates)
+ - 💯 [Burnout in Tech: Tips for fast recovery](https://utkarshnagar.hashnode.dev/burnout-in-tech-tips-for-fast-recovery)
+ - 🌮 [Unlocking the Power of React Hooks: The useState](https://utkarshnagar.hashnode.dev/unlocking-the-power-of-react-hooks-the-usestate)
+ - 🔥 [&quot;Unlocking the Power of React Hooks: How to Use Them Effectively&quot;](https://utkarshnagar.hashnode.dev/unlocking-the-power-of-react-hooks-how-to-use-them-effectively)
+ - 🌮 [How to stay productive as a Developer](https://utkarshnagar.hashnode.dev/how-to-stay-productive-as-a-developer)<!-- BLOGPOSTS:END -->
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
