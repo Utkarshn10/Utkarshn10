@@ -1,5 +1,6 @@
 ## Currently Working on: 
   - [Focusly](https://focusly.vercel.app/)
+  - [HackBud](https://github.com/Utkarshn10/HackBud)
 
 ## Other Projects
   - [RecipeBae](https://recipebae.vercel.app/)
