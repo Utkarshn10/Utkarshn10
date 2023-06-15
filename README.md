@@ -1,6 +1,7 @@
 ## Currently Working on: 
-  - [Focusly](https://focusly.vercel.app/)
   - [HackBud](https://hack-bud.vercel.app/)
+  - [Focusly](https://focusly.vercel.app/)
+
 
 ## Other Projects
   - [RecipeBae](https://recipebae.vercel.app/)
