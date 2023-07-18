@@ -11,7 +11,7 @@
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🔥 [HackBud: app built for Hackathon in a Hackathon](https://utkarshnagar.hashnode.dev/hackbud-app-built-for-hackathon-in-a-hackathon)
- - 💯 [Visualizing Data Made Easy: A Comprehensive Guide to Chart.js](https://utkarshnagar.hashnode.dev/visualizing-data-made-easy-a-comprehensive-guide-to-chartjs)
+ - 💯 [Chart.js: Striking Charts in a Few Simple Steps](https://utkarshnagar.hashnode.dev/chartjs-striking-charts-in-a-few-simple-steps)
  - 🌮 [Tech News at Your Fingertips: Top 3 Apps for the Latest Updates&quot;](https://utkarshnagar.hashnode.dev/tech-news-at-your-fingertips-top-3-apps-for-the-latest-updates)
  - 🔥 [Burnout in Tech: Tips for fast recovery](https://utkarshnagar.hashnode.dev/burnout-in-tech-tips-for-fast-recovery)
  - 🌮 [Unlocking the Power of React Hooks: The useState](https://utkarshnagar.hashnode.dev/unlocking-the-power-of-react-hooks-the-usestate)<!-- BLOGPOSTS:END -->
