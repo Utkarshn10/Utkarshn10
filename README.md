@@ -1,6 +1,6 @@
 ## Currently Working on: 
   - [HackBud](https://hack-bud.vercel.app/) (90+ users)
-  - [Focusly](https://focusly.vercel.app/) (300+ users)
+  - [Focusly](https://focusly.vercel.app/) (360+ users)
   - [todos](https://github.com/Utkarshn10/todos)
 
 ## Other Projects
