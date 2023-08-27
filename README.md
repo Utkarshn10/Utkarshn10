@@ -10,11 +10,11 @@
 
 ## :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Building Products, Becoming full-time SDE and more](https://utkarshnagar.hashnode.dev/building-products-becoming-full-time-sde-and-more)
- - 💯 [Weekend Coding Challenge: Building a Command Line Todo App](https://utkarshnagar.hashnode.dev/weekend-coding-challenge-building-a-command-line-todo-app)
- - 🌮 [HackBud: app built for Hackathon in a Hackathon](https://utkarshnagar.hashnode.dev/hackbud-app-built-for-hackathon-in-a-hackathon)
- - 🔥 [Chart.js: Striking Charts in a Few Simple Steps](https://utkarshnagar.hashnode.dev/chartjs-striking-charts-in-a-few-simple-steps)
- - 🌮 [Tech News at Your Fingertips: Top 3 Apps for the Latest Updates&quot;](https://utkarshnagar.hashnode.dev/tech-news-at-your-fingertips-top-3-apps-for-the-latest-updates)<!-- BLOGPOSTS:END -->
+🔥 [Building Products, Becoming full-time SDE and more](https://utkarshnagar.hashnode.dev/building-products-becoming-full-time-sde-and-more)
+💯 [Weekend Coding Challenge: Building a Command Line Todo App](https://utkarshnagar.hashnode.dev/weekend-coding-challenge-building-a-command-line-todo-app)
+🌮 [HackBud: app built for Hackathon in a Hackathon](https://utkarshnagar.hashnode.dev/hackbud-app-built-for-hackathon-in-a-hackathon)
+🔥 [Chart.js: Striking Charts in a Few Simple Steps](https://utkarshnagar.hashnode.dev/chartjs-striking-charts-in-a-few-simple-steps)
+🌮 [Tech News at Your Fingertips: Top 3 Apps for the Latest Updates&quot;](https://utkarshnagar.hashnode.dev/tech-news-at-your-fingertips-top-3-apps-for-the-latest-updates)<!-- BLOGPOSTS:END -->
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
