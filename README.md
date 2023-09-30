@@ -13,7 +13,7 @@
 <!-- BLOGPOSTS:START -->
  - 🔥 [Building Side Projects, Becoming full-time SDE and more](https://utkarshnagar.hashnode.dev/building-side-projects-becoming-full-time-sde-and-more)
  - 💯 [Weekend Coding Challenge: Building a Command Line Todo App](https://utkarshnagar.hashnode.dev/weekend-coding-challenge-building-a-command-line-todo-app)
- - 🌮 [Building an app to find teams and teammates in Hackathons: HackBud](https://utkarshnagar.hashnode.dev/building-an-app-to-find-teams-and-teammates-in-hackathons-hackbud)
+ - 🌮 [I built a Hackathon Team Builder app using Next.js and Appwrite: Introducing HackBud](https://utkarshnagar.hashnode.dev/i-built-a-hackathon-team-builder-app-using-nextjs-and-appwrite-introducing-hackbud)
  - 🔥 [Chart.js: Striking Charts in a Few Simple Steps](https://utkarshnagar.hashnode.dev/chartjs-striking-charts-in-a-few-simple-steps)
  - 🌮 [Tech News at Your Fingertips: Top 3 Apps for the Latest Updates&quot;](https://utkarshnagar.hashnode.dev/tech-news-at-your-fingertips-top-3-apps-for-the-latest-updates)<!-- BLOGPOSTS:END -->
 
