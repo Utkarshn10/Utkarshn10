@@ -4,7 +4,7 @@
 
 ## Other Projects
   - [SnapTool](https://snaptool.vercel.app/) - Add beautiful background to your screenshots
-  - [todos](https://github.com/Utkarshn10/todos) - A todo app for your CLI
+  - [todos](https://github.com/Utkarshn10/todos) - A todo app for your CLI, written in python
   - [RecipeBae](https://recipebae.vercel.app/)
   
 
