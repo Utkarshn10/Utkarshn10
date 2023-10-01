@@ -1,10 +1,10 @@
 ## Building: 
   - [Focusly](https://focusly.vercel.app/) (360+ users) - Stay Focused on work and say no to distractions
   - [HackBud](https://hack-bud.vercel.app/) (90+ users) - Find Teams and Teammates for Hackathons
-  - [SnapTool](https://snaptool.vercel.app/) - Add beautiful background to your screenshots
-  - [todos](https://github.com/Utkarshn10/todos) - A todo app for your CLI
 
 ## Other Projects
+  - [SnapTool](https://snaptool.vercel.app/) - Add beautiful background to your screenshots
+  - [todos](https://github.com/Utkarshn10/todos) - A todo app for your CLI
   - [RecipeBae](https://recipebae.vercel.app/)
   
 
