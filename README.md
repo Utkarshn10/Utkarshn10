@@ -1,15 +1,15 @@
-## Building: 
+# Building: 
   - [Focusly](https://focusly.vercel.app/) (360+ users) - Stay Focused on work and say no to distractions
   - [HackBud](https://hack-bud.vercel.app/) (90+ users) - Find Teams and Teammates for Hackathons
 
-## Other Projects
+# Other Projects
   - [SnapTool](https://snaptool.vercel.app/) - Add beautiful background to your screenshots
   - [todos](https://github.com/Utkarshn10/todos) - A todo app for your CLI, written in python
   - [RecipeBae](https://recipebae.vercel.app/)
   
 
 
-## :books: Recent Blog Posts
+# :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🔥 [Building Side Projects, Becoming full-time SDE and more](https://utkarshnagar.hashnode.dev/building-side-projects-becoming-full-time-sde-and-more)
  - 💯 [Weekend Coding Challenge: Building a Command Line Todo App](https://utkarshnagar.hashnode.dev/weekend-coding-challenge-building-a-command-line-todo-app)
