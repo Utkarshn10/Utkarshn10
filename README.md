@@ -1,5 +1,5 @@
 
-Software Developer building weekend projects.
+Software Developer learning and building side projects. Currently I am learning Go and I recently built [todos(go version)](https://github.com/Utkarshn10/todos-go) a cli based todo application for people who love to use terminals and a [rate limiter](https://github.com/Utkarshn10/go-rate-limiter)
 
 # Projects  
 - [Focusly](https://focusly.vercel.app/) (360+ users) - Stay Focused on work and say no to distractions
