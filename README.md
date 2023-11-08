@@ -1,12 +1,14 @@
 
-Software Developer building side projects on weekends. Currently I am learning Go and recently built [todos(go version)](https://github.com/Utkarshn10/todos-go) a cli based todo application for people who love to use terminals and a [rate limiter](https://github.com/Utkarshn10/go-rate-limiter) using Golang.
+Software Developer building side projects on weekends
 
-# Projects  
+# Projects I built in 2023
+- [sideProjectss(beta)](https://www.sideprojectss.com/) - Create your developer Portfolio of sideprojects
 - [Focusly](https://focusly.vercel.app/) (360+ users) - Stay Focused on work and say no to distractions
 - [HackBud](https://hack-bud.vercel.app/) (90+ users) - Find Teams and Teammates for Hackathons
 - [SnapTool](https://snaptool.vercel.app/) - Add beautiful background to your screenshots
 - [todos](https://github.com/Utkarshn10/todos) - A todo app for your CLI, written in python
-- [RecipeBae](https://recipebae.vercel.app/)
+- [todos(go version)](https://github.com/Utkarshn10/todos-go) - A todo app for your CLI, written in Go
+- [rate limiter](https://github.com/Utkarshn10/go-rate-limiter) -  A ratelimiter built with Go
   
 
 
