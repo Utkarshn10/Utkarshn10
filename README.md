@@ -1,7 +1,7 @@
 
 Software Developer building side projects on weekends
 
-# Projects I built in 2023
+# What I built in 2023
 - [sideProjectss(beta)](https://www.sideprojectss.com/) - Create your developer Portfolio of sideprojects
 - [Focusly](https://focusly.vercel.app/) (360+ users) - Stay Focused on work and say no to distractions
 - [HackBud](https://hack-bud.vercel.app/) (90+ users) - Find Teams and Teammates for Hackathons
