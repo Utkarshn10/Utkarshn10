@@ -14,11 +14,11 @@ Software Developer building side projects on weekends
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Building Side Projects, Becoming full-time SDE and more](https://utkarshnagar.hashnode.dev/building-side-projects-becoming-full-time-sde-and-more)
- - 💯 [Weekend Coding Challenge: Building a Command Line Todo App](https://utkarshnagar.hashnode.dev/weekend-coding-challenge-building-a-command-line-todo-app)
- - 🌮 [I built a Hackathon Team Builder app using Next.js and Appwrite: Introducing HackBud](https://utkarshnagar.hashnode.dev/i-built-a-hackathon-team-builder-app-using-nextjs-and-appwrite-introducing-hackbud)
- - 🔥 [Chart.js: Striking Charts in a Few Simple Steps](https://utkarshnagar.hashnode.dev/chartjs-striking-charts-in-a-few-simple-steps)
- - 🌮 [Tech News at Your Fingertips: Top 3 Apps for the Latest Updates&quot;](https://utkarshnagar.hashnode.dev/tech-news-at-your-fingertips-top-3-apps-for-the-latest-updates)<!-- BLOGPOSTS:END -->
+ - 🔥 [How I am learning Go by building mini side projects and you can too](https://utkarshnagar.hashnode.dev/how-i-am-learning-go-by-building-mini-side-projects-and-you-can-too)
+ - 💯 [Building Side Projects, Becoming full-time SDE and more](https://utkarshnagar.hashnode.dev/building-side-projects-becoming-full-time-sde-and-more)
+ - 🌮 [Weekend Coding Challenge: Building a Command Line Todo App](https://utkarshnagar.hashnode.dev/weekend-coding-challenge-building-a-command-line-todo-app)
+ - 🔥 [I built a Hackathon Team Builder app using Next.js and Appwrite: Introducing HackBud](https://utkarshnagar.hashnode.dev/i-built-a-hackathon-team-builder-app-using-nextjs-and-appwrite-introducing-hackbud)
+ - 🌮 [Chart.js: Striking Charts in a Few Simple Steps](https://utkarshnagar.hashnode.dev/chartjs-striking-charts-in-a-few-simple-steps)<!-- BLOGPOSTS:END -->
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
