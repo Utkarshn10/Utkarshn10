@@ -1,17 +1,7 @@
 
-Software Developer building side projects on weekends
+Software Developer building side projects on weekends 
 
-# Recent Projects
-- [sideProjectss](https://www.sideprojectss.com/) - Build your side projects' online home in minutes, not hours.
-- [go-load-tester](https://github.com/Utkarshn10/go-load-tester) - API endpoint Load tester written in Go
-- [Focusly](https://focusly.vercel.app/) (360+ users) - Stay Focused on work and say no to distractions
-- [HackBud](https://hack-bud.vercel.app/) (90+ users) - Find Teams and Teammates for Hackathons
-- [SnapTool](https://snaptool.vercel.app/) - Add beautiful background to your screenshots
-- [todos](https://github.com/Utkarshn10/todos) - A todo app for your CLI, written in python
-- [todos(go version)](https://github.com/Utkarshn10/todos-go) - A todo app for your CLI, written in Go
-- [rate limiter](https://github.com/Utkarshn10/go-rate-limiter) -  A ratelimiter built with Go
-  
-
+What I have been building: sideprojectss.com/Utkarshn10
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
