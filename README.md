@@ -1,7 +1,7 @@
 
 Software Developer building side projects on weekends 
 
-What I have been building: A collection of all my [sideprojects](https://www.sideprojectss.com/Utkarshn10)
+What I have been building: A collection of all my [side projects](https://www.sideprojectss.com/Utkarshn10)
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
