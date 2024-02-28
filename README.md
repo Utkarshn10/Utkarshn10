@@ -1,15 +1,7 @@
 
 Software Developer building side projects on weekends 
 
-What I have been building: sideprojectss.com/Utkarshn10
-
-# :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
- - 🔥 [How I am learning Go by building mini side projects and you can too](https://utkarshnagar.hashnode.dev/how-i-am-learning-go-by-building-mini-side-projects-and-you-can-too)
- - 💯 [Building Side Projects, Becoming full-time SDE and more](https://utkarshnagar.hashnode.dev/building-side-projects-becoming-full-time-sde-and-more)
- - 🌮 [Weekend Coding Challenge: Building a Command Line Todo App](https://utkarshnagar.hashnode.dev/weekend-coding-challenge-building-a-command-line-todo-app)
- - 🔥 [I built a Hackathon Team Builder app using Next.js and Appwrite: Introducing HackBud](https://utkarshnagar.hashnode.dev/i-built-a-hackathon-team-builder-app-using-nextjs-and-appwrite-introducing-hackbud)
- - 🌮 [Chart.js: Striking Charts in a Few Simple Steps](https://utkarshnagar.hashnode.dev/chartjs-striking-charts-in-a-few-simple-steps)<!-- BLOGPOSTS:END -->
+What I have been building: A collection of all my [sideprojects](https://www.sideprojectss.com/Utkarshn10)
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
