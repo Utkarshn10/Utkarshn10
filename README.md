@@ -1,11 +1,7 @@
 
-Software Developer building side projects on weekends 
+Software Developer solving real world problems 
 
-Proof of work: A collection of all my [side projects](https://sideprojectss.vercel.app/Utkarshn10)
-
-<!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
-
-<!-- ## Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -21,25 +17,9 @@ Proof of work: A collection of all my [side projects](https://sideprojectss.verc
 
 ### Socials
 
-<p align="left"> <a href="https://utkarshnagar.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/utkarsh-nagar-b15562118/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/utkarsh1010101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
+<p align="left"> <a href="https://utkarshnagar.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/utkarsh-nagar-b15562118/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/utkarsh1010101" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<!-- ![](https://komarev.com/ghpvc/?username=Utkarshn10&color=79FFE1)       -->
-<!-- <a href="https://twitter.com/intent/follow?screen_name=Utkarshn10" />[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
- -->
-
-<!-- ## Github stats:
-
-![Utkarsh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Utkarshn10&theme=react-dark&hide_border=true&area=true) -->
-
-
-<div align="center">
-<!-- <a href="https://github.com/Utkarshn10">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Utkarshn10&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Utkarsh's github stats"/>
-</a> -->
-
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Utkarshn10&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD) -->
- 
-</div>
+![](https://komarev.com/ghpvc/?username=Utkarshn10&color=79FFE1)
+<a href="https://twitter.com/intent/follow?screen_name=Utkarshn10" />[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=#6C63FF">](mailto:utkarshnagarwork@gmail.com)
 
 
