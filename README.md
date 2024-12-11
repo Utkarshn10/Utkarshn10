@@ -1,7 +1,7 @@
 
 Software Developer building side projects on weekends 
 
-Proof of work: A collection of all my [side projects](https://www.sideprojectss.com/Utkarshn10)
+Proof of work: A collection of all my [side projects](https://sideprojectss.vercel.app/Utkarshn10)
 
 <!-- ## ✉️ You can contact me [here](mailto:utkarshnagarwork@gmail.com) -->
 
