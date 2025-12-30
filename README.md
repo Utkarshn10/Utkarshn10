@@ -6,6 +6,6 @@ Founding Engineer building:
 3. [Hackbud (800+ users)](https://hack-bud.vercel.app/) - Find teams and teammates for hackathons easily
 4. [Focusly](https://focusly.vercel.app) - Lock in and stay focused during your deep work sessions with lofi, brown and white noise
 
-+ 10 more
+   ... 10 more
 
 If you want to work or collaborate with me than just shoot me a dm on twitter @utkarshbuilds_ or reach out to me <a href="mailto:utkarshnagarwork@gmail.com">here</a>
