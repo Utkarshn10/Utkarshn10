@@ -8,4 +8,4 @@ Founding Engineer building:
 
    ... 10 more
 
-If you want to work or collaborate with me than just shoot me a dm on twitter [@utkarshbuilds_](https://x.com/utkarshbuilds_) or reach out to me <a href="mailto:utkarshnagarwork@gmail.com">here</a>
+If you want to work or collaborate with me then shoot me a dm on twitter [@utkarshbuilds_](https://x.com/utkarshbuilds_) or reach out to me <a href="mailto:utkarshnagarwork@gmail.com">here</a>
