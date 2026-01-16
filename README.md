@@ -1,5 +1,5 @@
 
-Indie Developer and Founding Engineer building:
+Indie Developer and Founding Engineer building tiny startups:
 
 1. [Run&Grow: Run Tracker (2400+ users)](http://runandgrow.com/) - Gamified running app helping runners achieve their running goals 
 2. [sideprojectss](https://sideprojectss.vercel.app/) - Build your online page to showcase what you are working on
